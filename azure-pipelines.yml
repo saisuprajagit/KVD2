@@ -1,4 +1,3 @@
-# Starter pipeline
 - task: UsePythonVersion@0
   inputs:
     versionSpec: '3.x'
@@ -8,7 +7,6 @@
 # Start with a minimal pipeline that you can customize to build and deploy your code.
 # Add steps that build, run tests, deploy, and more:
 # https://aka.ms/yaml
-
 trigger:
 - master
 
