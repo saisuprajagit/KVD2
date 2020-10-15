@@ -4,6 +4,7 @@
 # Add steps that build, run tests, deploy, and more:
 # https://aka.ms/yaml
 #UPDATING SAMPLE COMMENT
+
 - task: UsePythonVersion@0
   inputs:
     versionSpec: '3.x'
